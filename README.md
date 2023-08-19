@@ -8,7 +8,7 @@ I love Hatsusne Miku
 Tab整理Chrome拡張機能 (<a href="https://twitter.com/geek_pjt/status/1619628596360011776">技育CAMPハッカソンvol.10</a>)<br>
 <a href="https://github.com/simeiro/Taber">Taber</a><br>
 vocaDBハイライト曲送信DiscordBot<br>
-<a href="https://github.com/simeiro/Highlight39">highlight39</a><br>
+<a href="https://github.com/simeiro/Highlight39">Highlight39</a><br>
 YouTube再生リストのボカロ曲をサビメドレーとして再生するChrome拡張機能<br>
 <a href="https://github.com/simeiro/chorusMedley">VOCALOIDサビメドレー for YouTube プレイリスト</a><br>
 
