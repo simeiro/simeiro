@@ -3,7 +3,7 @@ I love Hatsusne Miku
 
 
 
-## Product<br>
+## Products<br>
 
 ##### 個人開発
 vocaDBハイライト曲送信DiscordBot<br>
@@ -24,6 +24,11 @@ Tab整理Chrome拡張機能 (<a href="https://twitter.com/geek_pjt/status/161962
 
 ## AtCoder<br>
 [![simeiro](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fsimeiro)](https://atcoder.jp/users/simeiro)
+
+## Osawari
+Python, JavaScript, (HTML/CSS, Dart, TypeScript, Java, C)<br>
+(flutter)<br>
+(MySQL, MongoDB)
 
 
 <!--
