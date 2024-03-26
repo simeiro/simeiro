@@ -21,17 +21,12 @@ Tab整理Chrome拡張機能 (<a href="https://twitter.com/geek_pjt/status/161962
 
 
 
-
-
-
-
-
-
 [![simeiro](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fsimeiro)](https://atcoder.jp/users/simeiro)
 
 
 
 <!--
+[![trophy](https://github-profile-trophy.vercel.app/?username=simeiro&theme=radical)](https://github.com/simeiro/github-profile-trophy)
 **simeiro/simeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
