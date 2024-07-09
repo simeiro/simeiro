@@ -8,6 +8,9 @@ I love Hatsusne Miku
 ##### 個人開発
 vocaDBハイライト曲送信DiscordBot<br>
 <a href="https://github.com/simeiro/Highlight39">Highlight39</a><br>
+niconicoのボカロランキング送信DiscordBot<br>
+<a href="https://github.com/simeiro/Highlight39Revised">Highlight39Revised</a><br>
+
 YouTube再生リストのボカロ曲をサビメドレーとして再生するChrome拡張機能<br>
 <a href="https://github.com/simeiro/chorusMedley">VOCALOIDサビメドレー for YouTube プレイリスト</a><br>
 
