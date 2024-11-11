@@ -1,8 +1,8 @@
 ### Hi threre👋　
-I love Hatsusne Miku
+I love VOCALOID
 
-
-
+##### 就活用ポートフォリオ
+<a href="https://www.simeiro.com/portfolio">simeiro.com/portfolio</a><br>
 
 
 ##### 個人開発
