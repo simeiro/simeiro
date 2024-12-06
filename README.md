@@ -1,10 +1,9 @@
 ### Hi threre👋　
 I love VOCALOID
 
-##### 就活用ポートフォリオ
-<a href="https://www.simeiro.com/portfolio">simeiro.com/portfolio</a><br>
+<a href="https://www.simeiro.com/portfolio">就活用ポートフォリオ</a><br>
 
-
+<!--
 ##### 個人開発
 vocaDBハイライト曲送信DiscordBot<br>
 <a href="https://github.com/simeiro/Highlight39">Highlight39</a><br>
@@ -22,9 +21,10 @@ Tab整理Chrome拡張機能 (<a href="https://twitter.com/geek_pjt/status/161962
 たこ焼き評価Androidアプリ（<a href="https://twitter.com/kc3_official/status/1761673869826703521">KC3HACK2024</a>）<br>
 <a href="https://github.com/kc3hack/2024_I">Takopa</a>
 
-
-
 [![simeiro](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fsimeiro)](https://atcoder.jp/users/simeiro)
+-->
+
+
 
 
 
