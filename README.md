@@ -1,5 +1,5 @@
 ### Hi threre👋　
-I love VOCALOID
+ボカロが好きな人です
 
 <a href="https://www.simeiro.com/portfolio">就活用ポートフォリオ</a><br>
 #### 個人開発
