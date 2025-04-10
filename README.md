@@ -7,7 +7,7 @@
 - 2025年2月 <a href="https://github.com/simeiro/vocolor">背景の色からボカロ曲を当てるゲーム</a><br>
 - 2024年11月 <a href="https://simeiro.com/">個人サイト・ブログ</a><br>
 - 2024年4月 <a href="https://github.com/c-a-c/teireisoukai">定例総会の出席処理を自動で行うDiscord bot</a><br>
-- 2023年7月 <a href="https://github.comaaaa/simeiro/chorusMedley">YouTube再生リストのボカロ曲をサビメドレーとして再生するChrome拡張機能</a><br>
+- 2023年7月 <a href="https://github.com/simeiro/chorusMedley">YouTube再生リストのボカロ曲をサビメドレーとして再生するChrome拡張機能</a><br>
 
 ####  ハッカソン
 - 2024年2月 <a href="https://github.com/kc3hack/2024_I">たこ焼き評価Androidアプリ (KC3HACK2024) </a>
