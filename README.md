@@ -1,7 +1,7 @@
 ### Hi threre👋　
 ボカロが好きな人です
 
-<a href="https://www.simeiro.com/portfolio">就活用ポートフォリオ</a><br>
+<a href="https://www.wantedly.com/id/simeiro">就活用wantedly</a><br>
 #### 個人開発
 - 2025年3月 <a href="https://twitch-www-clip.vercel.app/">Twitch配信の面白いシーンを分析するサイト</a><br>
 - 2025年2月 <a href="https://github.com/simeiro/vocolor">背景の色からボカロ曲を当てるゲーム</a><br>
