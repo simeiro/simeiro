@@ -1,21 +1,9 @@
 ### Hi threre👋　
 ボカロが好きな人です
 
-<a href="https://www.wantedly.com/id/simeiro">就活用wantedly</a><br>
-#### 個人開発
-- 2025年3月 <a href="https://twitch-www-clip.vercel.app/">Twitch配信の面白いシーンを分析するサイト</a><br>
-- 2025年2月 <a href="https://github.com/simeiro/vocolor">背景の色からボカロ曲を当てるゲーム</a><br>
-- 2024年11月 <a href="https://simeiro.com/">個人サイト・ブログ</a><br>
-- 2024年4月 <a href="https://github.com/c-a-c/teireisoukai">定例総会の出席処理を自動で行うDiscord bot</a><br>
-- 2023年7月 <a href="https://github.com/simeiro/chorusMedley">YouTube再生リストのボカロ曲をサビメドレーとして再生するChrome拡張機能</a><br>
-
-####  ハッカソン
-- 2024年2月 <a href="https://github.com/kc3hack/2024_I">たこ焼き評価Androidアプリ (KC3HACK2024) </a>
-- 2023年8月 <a href="https://github.com/simeiro/amanojaku">京都の今日行く場所をランダムに決めてくれるAndroid/iOSアプリ（関西ビギナーズハッカソンVOL2）</a><br>
-- 2023年1月 <a href="https://github.com/simeiro/Taber">タブを整理できるChrome拡張機能 (技育CAMPハッカソンvol.10)</a><br>
-
-#### 電子計算機応用部
-- 2024年10月 <a href="https://github.com/simeiro/frequency-game">周波数を当てるゲーム</a><br>
+#### ボカロ関連
+- <a href="https://github.com/simeiro/vocolor">背景の色からボカロ曲を当てるゲーム</a><br>
+- <a href="https://github.com/simeiro/chorusMedley">YouTube再生リストのボカロ曲をサビメドレーとして再生するChrome拡張機能</a><br>
 
 
 
